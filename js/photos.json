@@ -1,0 +1,20 @@
+{
+  photos: [
+    {
+        "full" : "images/carousel/full--1.jpg"
+        "thumb": "images/carousel/thumb--1.jpg"
+      },
+    {
+        "full" : "images/carousel/full--2.jpg"
+        "thumb": "images/carousel/thumb--2.jpg"
+      },
+    {
+        "full" : "images/carousel/full--3.jpg"
+        "thumb": "images/carousel/thumb--3.jpg"
+      },
+    {
+        "full" : "images/carousel/full--4.jpg"
+        "thumb": "images/carousel/thumb--4.jpg"
+      }
+  ]
+}
